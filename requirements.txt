@@ -77,7 +77,7 @@ jsonschema==3.0.1
 jupyter-client==5.2.4
 jupyter-console==6.0.0
 jupyter-core==4.4.0
-jupyterlab==0.34.12
+jupyterlab==1.2.21
 jupyterlab-launcher==0.13.1
 Keras==2.2.4
 Keras-Applications==1.0.7
